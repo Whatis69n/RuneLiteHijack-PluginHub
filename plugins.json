@@ -9,5 +9,16 @@
     "displayName": "HiJack Customize PluginHub",
     "description": "",
     "provider": "arnah"
+  },
+  {
+    "internalName": "gauntlethelper",
+    "hash": "6851A2898080C8E76333538E609D8C084E3BF891CA41C6E7A6D2D903F1413AE6819D794EF39931DF5EB2BE6052F733CE4FE34FABCE598E331EFE32B5D7394AA0",
+    "size": 67623,
+    "plugins": [
+      "com.theplug.kotori.gauntlethelper.GauntletHelperPlugin"
+    ],
+    "displayName": "Gauntlet Helper",
+    "description": "All-in-one plugin for The Gauntlet",
+    "provider": "kotori"
   }
 ]
